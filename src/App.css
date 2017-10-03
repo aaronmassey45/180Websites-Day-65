@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background: url('media/galaxy.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  font-size: 1.5em;
+}
+
+.bg-purp {
+  background-color: rgba(150, 21, 168, 0.7);
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.navbar-inverse {
+  background: black;
+  border: black;
+}
+
+.PastData td {
+  background-color: rgba(100, 221, 168, 0.7);
+}
+
+.People ul {
+  margin: 0 auto;
+  list-style: none;;
+  padding-left: 0;
+  text-align:  center;
+}
+
+.position {
+  margin: 0 auto;
+  padding: 20px;
+  width: auto;
+}
+
+.table-responsive {
+  font-size: 1em;
+  margin-top: 25px;
+}
+
+th {
+  text-align: center;
+}
